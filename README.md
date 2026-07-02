@@ -84,8 +84,11 @@ A document intelligence platform that analyzes PDF/DOCX/TXT files, classifies do
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stomarp&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stomarp&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stomarp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Swati's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stomarp&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </p>
 
 ---
